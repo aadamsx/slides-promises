@@ -1,2 +1,2 @@
-index.html: index.rst
-	pandoc -t revealjs -s -V theme=beige index.rst -o index.html
+index.html: README.rst
+	pandoc -t revealjs -s -V theme=beige README.rst -o index.html
