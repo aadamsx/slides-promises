@@ -138,11 +138,8 @@ Promises - code
 Promise libraries
 +++++++++++++++++
 
-- `List of implementations`_
+- `List of implementations <https://github.com/promises-aplus/promises-spec/blob/master/implementations.md>`_
 - Promises/A+
 - Q.js
 - Promise.coffee
 - **Pacta**
-
-
-.. _`list of implementations`:: https://github.com/promises-aplus/promises-spec/blob/master/implementations.md
