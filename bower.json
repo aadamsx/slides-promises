@@ -1,0 +1,28 @@
+{
+  "name": "slides-promises",
+  "version": "0.0.1",
+  "authors": [
+    "damianfral <huevofritopamojarpan@gmail.com>"
+  ],
+  "description": "Some slides about promises in JavaScript",
+  "main": "index.html",
+  "keywords": [
+    "javascript",
+    "coffeescript",
+    "promises",
+    "callbacks",
+    "cps"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-revealjs": "~2.6.1"
+  }
+}

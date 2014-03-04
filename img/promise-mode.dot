@@ -1,0 +1,14 @@
+digraph
+{
+	rankdir="LR"
+	
+	Promise -> Pending
+	Pending -> fulfilled [style="dashed"]
+	Pending -> rejected	 [style="dashed"]
+
+	Promise [shape="circle"]
+	Pending [style="dashed", shape="circle"]
+	fulfilled [shape="doublecircle"]
+	rejected [shape="doublecircle"]
+
+}

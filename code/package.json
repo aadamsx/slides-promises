@@ -1,0 +1,12 @@
+{
+  "name": "promises-example",
+  "version": "0.0.0",
+  "description": "",
+  "author": "damianfral",
+  "license": "",
+  "dependencies": {
+    "underscore": "*",
+    "pacta": "*",
+    "coffee-script": "*"
+  }
+}
